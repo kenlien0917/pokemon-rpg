@@ -1,0 +1,387 @@
+[
+  {
+    "path": "BagWidget.cpp",
+    "original_sha256": "a7d1e32acb28a938ba7fff0d9a71ad9ab39ccfd111d340a3219b7cfb0865b735",
+    "published_sha256": "10a60eff6eb495575da532612f699afaa9ed850d17e686cb3ac1b0de57cc94f5"
+  },
+  {
+    "path": "BagWidget.h",
+    "original_sha256": "b94f4a431cac4bbcf5bd1fd4d8dbf2f649584596407f9c5974dd8e7fa5138112",
+    "published_sha256": "6448e1b8da494517ef2d3152391d434cec154496bc158eeabe19e0f9e4908222"
+  },
+  {
+    "path": "BarrierEditor.cpp",
+    "original_sha256": "5e86117a151b43dbea1d7263a6772d624657ffc5a0dce968e20a303d39f1b52e",
+    "published_sha256": "b94c2408466482f4ccfff7893511b88064b6b1677aeb14d60185de682168cbdf"
+  },
+  {
+    "path": "BarrierEditor.h",
+    "original_sha256": "aefa34d4160b5c8e4ba7f4adaeca62127d8b7317017408e6fe7eae6fa14534b2",
+    "published_sha256": "4d4f4e26b1400e7ebc7cec884cad9a52cd253b54f63b021fafc30a3f5d42bf64"
+  },
+  {
+    "path": "BattleScene.cpp",
+    "original_sha256": "6e5934130077e824a8657bcedb4527656665920ebd89fb39923b0ce8f81f7757",
+    "published_sha256": "db15a8f6d422b77fdc2d69da0a48d5941caf987c72c09a7dfda27fb0ddb3d237"
+  },
+  {
+    "path": "BattleScene.h",
+    "original_sha256": "b6c6d2f28b7afde68bdb1b385cafc440de159a5c28a4350fc2a018dd1e1afab3",
+    "published_sha256": "c1e5a7df92538262ee302ba4c797a781b6aa7869dbde183ac80139936f884ba5"
+  },
+  {
+    "path": "BoxGenerator.cpp",
+    "original_sha256": "616be67e9799d7240a05739f2d343f1a7425143e068708db0b570f1ea02119e1",
+    "published_sha256": "4d16c81eb526d40aea2b5843f6364e0edbe487da8f3c2f7c2c53d340cf64a267"
+  },
+  {
+    "path": "BoxGenerator.h",
+    "original_sha256": "ae63b205ff6ee2adebc759b94270da8285a5959792c92349d9f37f4a5e6edda8",
+    "published_sha256": "bb80191a7d20bfdbc3dbba87a7b9cf3ae6e023885acf5ec40e7f2322154f1f86"
+  },
+  {
+    "path": "Dataset/Image/A Key.png",
+    "original_sha256": "40444f0a1f5aa5404ec8b50dbdb323a0c39e904f355da548722a9dc89c57707b",
+    "published_sha256": "40444f0a1f5aa5404ec8b50dbdb323a0c39e904f355da548722a9dc89c57707b"
+  },
+  {
+    "path": "Dataset/Image/bag.png",
+    "original_sha256": "5f060b6a1646fc60fb7dada63ae48b9a35c4849aaea05e13420da383065eb399",
+    "published_sha256": "5f060b6a1646fc60fb7dada63ae48b9a35c4849aaea05e13420da383065eb399"
+  },
+  {
+    "path": "Dataset/Image/ball.png",
+    "original_sha256": "b011f444d762dbba733a307bfdf23efab2fb6f828e08e1ff7eb66c19f17ab856",
+    "published_sha256": "b011f444d762dbba733a307bfdf23efab2fb6f828e08e1ff7eb66c19f17ab856"
+  },
+  {
+    "path": "Dataset/Image/battle/Bag.png",
+    "original_sha256": "c6f32bea2dd99f6dabe2ca03a39adfa636ade9c7b53afc9008a9999ae48fab4b",
+    "published_sha256": "c6f32bea2dd99f6dabe2ca03a39adfa636ade9c7b53afc9008a9999ae48fab4b"
+  },
+  {
+    "path": "Dataset/Image/battle/battle_scene.png",
+    "original_sha256": "8f5ed7b94ef7bf6527a6c918fb674a81173a7d8c67c329bcd1eb05b7cb60eb83",
+    "published_sha256": "8f5ed7b94ef7bf6527a6c918fb674a81173a7d8c67c329bcd1eb05b7cb60eb83"
+  },
+  {
+    "path": "Dataset/Image/battle/blastoise.png",
+    "original_sha256": "6646c03b5bb6547d3cb4bc8d283c7c881883e0581d71ab19a385d5ccd178b0ee",
+    "published_sha256": "6646c03b5bb6547d3cb4bc8d283c7c881883e0581d71ab19a385d5ccd178b0ee"
+  },
+  {
+    "path": "Dataset/Image/battle/blastoise_back.png",
+    "original_sha256": "c3c2aabc8033492ee8230406e5f9cdd852adcf940028d99e4132c72138d2fd53",
+    "published_sha256": "c3c2aabc8033492ee8230406e5f9cdd852adcf940028d99e4132c72138d2fd53"
+  },
+  {
+    "path": "Dataset/Image/battle/bulbasaur.png",
+    "original_sha256": "8bd0f1169b2eb23a5d35cc40cd302219e22717033255798d295c29cf89e10297",
+    "published_sha256": "8bd0f1169b2eb23a5d35cc40cd302219e22717033255798d295c29cf89e10297"
+  },
+  {
+    "path": "Dataset/Image/battle/bulbasaur_back.png",
+    "original_sha256": "08d390f8e88c21a82932bb400bc99b077749322b15f3cad7f051b9b7e40e2468",
+    "published_sha256": "08d390f8e88c21a82932bb400bc99b077749322b15f3cad7f051b9b7e40e2468"
+  },
+  {
+    "path": "Dataset/Image/battle/charizard.png",
+    "original_sha256": "752c790a22632d1362a484bd79763a75c6c4db9dc5922efa173e764c5f0f7b44",
+    "published_sha256": "752c790a22632d1362a484bd79763a75c6c4db9dc5922efa173e764c5f0f7b44"
+  },
+  {
+    "path": "Dataset/Image/battle/charizard_back.png",
+    "original_sha256": "c5e9b0e53709bc4069bf1514e3cfee559b06d04afa97286b682c8489f04d2865",
+    "published_sha256": "c5e9b0e53709bc4069bf1514e3cfee559b06d04afa97286b682c8489f04d2865"
+  },
+  {
+    "path": "Dataset/Image/battle/charmander.png",
+    "original_sha256": "43e493d7e7c2cefb589f64c75e75b8ed83a13a9b77540e0ac0a1f0a31edb440f",
+    "published_sha256": "43e493d7e7c2cefb589f64c75e75b8ed83a13a9b77540e0ac0a1f0a31edb440f"
+  },
+  {
+    "path": "Dataset/Image/battle/charmander_back.png",
+    "original_sha256": "8c568eebf5131c378958ffd34e7a30f1e85147188b0a6278eebe6acc17a0ea40",
+    "published_sha256": "8c568eebf5131c378958ffd34e7a30f1e85147188b0a6278eebe6acc17a0ea40"
+  },
+  {
+    "path": "Dataset/Image/battle/charmeleon.png",
+    "original_sha256": "528c932dd5612cd674850ed13ccd7737fe44d25194123fbb7f64e8530b4be9f0",
+    "published_sha256": "528c932dd5612cd674850ed13ccd7737fe44d25194123fbb7f64e8530b4be9f0"
+  },
+  {
+    "path": "Dataset/Image/battle/charmeleon_back.png",
+    "original_sha256": "b844fe86b042cb8de185d02dcf3eddfa680a01e7eb713f9ac2e271f8dab0bebc",
+    "published_sha256": "b844fe86b042cb8de185d02dcf3eddfa680a01e7eb713f9ac2e271f8dab0bebc"
+  },
+  {
+    "path": "Dataset/Image/battle/Fight.png",
+    "original_sha256": "c730e875f2cbf8063c1e3ebd71d2e97e2f1c8bdb3bb0d4ea38e9722b05c0b2ef",
+    "published_sha256": "c730e875f2cbf8063c1e3ebd71d2e97e2f1c8bdb3bb0d4ea38e9722b05c0b2ef"
+  },
+  {
+    "path": "Dataset/Image/battle/fight_skill.png",
+    "original_sha256": "b78b4fff832e42f4b554ae752c6e2fa42df36e1e8aefeb5b4d9e3a3f046cdb4f",
+    "published_sha256": "b78b4fff832e42f4b554ae752c6e2fa42df36e1e8aefeb5b4d9e3a3f046cdb4f"
+  },
+  {
+    "path": "Dataset/Image/battle/ivysaur.png",
+    "original_sha256": "2aebb628cee9e4a44f8ada393b08968acd9276d4f88db3512c6f959366610597",
+    "published_sha256": "2aebb628cee9e4a44f8ada393b08968acd9276d4f88db3512c6f959366610597"
+  },
+  {
+    "path": "Dataset/Image/battle/ivysaur_back.png",
+    "original_sha256": "652efbf1bf09a0b1d9c82f9331c91b8d3405aa120e6d82c9a2c5daf1a0fe90fc",
+    "published_sha256": "652efbf1bf09a0b1d9c82f9331c91b8d3405aa120e6d82c9a2c5daf1a0fe90fc"
+  },
+  {
+    "path": "Dataset/Image/battle/Pokemon.png",
+    "original_sha256": "200ed3e190a85bc1b09e18133c5654501018fed22459fc5e5a2cd26a48ca465c",
+    "published_sha256": "200ed3e190a85bc1b09e18133c5654501018fed22459fc5e5a2cd26a48ca465c"
+  },
+  {
+    "path": "Dataset/Image/battle/PokemonList.png",
+    "original_sha256": "750b839a81a384e3dd09f2a75cb04a82793b623a07338134d55d3f312cb34208",
+    "published_sha256": "750b839a81a384e3dd09f2a75cb04a82793b623a07338134d55d3f312cb34208"
+  },
+  {
+    "path": "Dataset/Image/battle/Run.png",
+    "original_sha256": "d0ee3613748e619778e7ec07c92845bd32036636c554ffdb24ad56da06a7b129",
+    "published_sha256": "d0ee3613748e619778e7ec07c92845bd32036636c554ffdb24ad56da06a7b129"
+  },
+  {
+    "path": "Dataset/Image/battle/squirtle.png",
+    "original_sha256": "c94434b69651f9d50247ef7f76a86d5799b2fb9a797e3b50e7f128e7cd7dbe1a",
+    "published_sha256": "c94434b69651f9d50247ef7f76a86d5799b2fb9a797e3b50e7f128e7cd7dbe1a"
+  },
+  {
+    "path": "Dataset/Image/battle/squirtle_back.png",
+    "original_sha256": "9c669d674c03a7f5760a06d34e1310eabd542e96ac9b4e1fce816765befd0ae6",
+    "published_sha256": "9c669d674c03a7f5760a06d34e1310eabd542e96ac9b4e1fce816765befd0ae6"
+  },
+  {
+    "path": "Dataset/Image/battle/venusaur.png",
+    "original_sha256": "141e138c3c727759f7d3c4fca1e2de16da61d6345f24a7c88ca17415cfb1f1d1",
+    "published_sha256": "141e138c3c727759f7d3c4fca1e2de16da61d6345f24a7c88ca17415cfb1f1d1"
+  },
+  {
+    "path": "Dataset/Image/battle/venusaur_back.png",
+    "original_sha256": "ad29350d131e16c980ac576f44e3355b9996c0d7264661260930b87a55eea502",
+    "published_sha256": "ad29350d131e16c980ac576f44e3355b9996c0d7264661260930b87a55eea502"
+  },
+  {
+    "path": "Dataset/Image/battle/wartortle.png",
+    "original_sha256": "3dae0ee24900504d778829be408a0816a86d344ce0628ec805384705357f4940",
+    "published_sha256": "3dae0ee24900504d778829be408a0816a86d344ce0628ec805384705357f4940"
+  },
+  {
+    "path": "Dataset/Image/battle/wartortle_back.png",
+    "original_sha256": "a32d7768c8528faa0d3561d817733232d2fa4b509f274f75cfc61722b815316a",
+    "published_sha256": "a32d7768c8528faa0d3561d817733232d2fa4b509f274f75cfc61722b815316a"
+  },
+  {
+    "path": "Dataset/Image/box.png",
+    "original_sha256": "f62750aef5c75ff8d18449db83fe6ad2a467264cfbe7fd6f150a8a26f7df1e5a",
+    "published_sha256": "f62750aef5c75ff8d18449db83fe6ad2a467264cfbe7fd6f150a8a26f7df1e5a"
+  },
+  {
+    "path": "Dataset/Image/dialog.png",
+    "original_sha256": "52e66484f541b5254916e469f2d2c1e3a19f8576dbf3aeed517ebc4cef71fd71",
+    "published_sha256": "52e66484f541b5254916e469f2d2c1e3a19f8576dbf3aeed517ebc4cef71fd71"
+  },
+  {
+    "path": "Dataset/Image/Ether.jpg",
+    "original_sha256": "ee9f0f9edebd8757462910577d3486dadc75d5cbf1a5ae72a4d2684328bcecda",
+    "published_sha256": "ee9f0f9edebd8757462910577d3486dadc75d5cbf1a5ae72a4d2684328bcecda"
+  },
+  {
+    "path": "Dataset/Image/icon/Ether_bag.png",
+    "original_sha256": "1b335ed04b5ed0fb3bd1da03d03a813548b888a416bc2331e46982eded54101f",
+    "published_sha256": "1b335ed04b5ed0fb3bd1da03d03a813548b888a416bc2331e46982eded54101f"
+  },
+  {
+    "path": "Dataset/Image/icon/Pokeball_bag.png",
+    "original_sha256": "93cd5c38c2f46c9b65b70094b9bc9e6ee1525348f7e0821521872ae405358ab6",
+    "published_sha256": "93cd5c38c2f46c9b65b70094b9bc9e6ee1525348f7e0821521872ae405358ab6"
+  },
+  {
+    "path": "Dataset/Image/icon/Potion_bag.png",
+    "original_sha256": "c5229b41d4be5eac5f77b7d08fa5af2cf2e71c3c30b22d10c09a65b6826cc7a2",
+    "published_sha256": "c5229b41d4be5eac5f77b7d08fa5af2cf2e71c3c30b22d10c09a65b6826cc7a2"
+  },
+  {
+    "path": "Dataset/Image/item_bag_background.png",
+    "original_sha256": "69ef6a0fff237b3b355a704cc522edc7902f4a99b82fefc16bdb9993c5c72437",
+    "published_sha256": "69ef6a0fff237b3b355a704cc522edc7902f4a99b82fefc16bdb9993c5c72437"
+  },
+  {
+    "path": "Dataset/Image/NPC.png",
+    "original_sha256": "45ca092964b77c6f1161957fadd4b52bb4cc823e69a0dd1baec9cb1dc18e3d68",
+    "published_sha256": "45ca092964b77c6f1161957fadd4b52bb4cc823e69a0dd1baec9cb1dc18e3d68"
+  },
+  {
+    "path": "Dataset/Image/player/player_B.png",
+    "original_sha256": "1ffa391006b4a90a250f6b78a3ad8dbb0e409b14bcf353963a95243355a9aff6",
+    "published_sha256": "1ffa391006b4a90a250f6b78a3ad8dbb0e409b14bcf353963a95243355a9aff6"
+  },
+  {
+    "path": "Dataset/Image/player/player_BW1.png",
+    "original_sha256": "8fe43fe447a2d63c7899713b0a17b608b36f49077271aed8024ea7f919f88eba",
+    "published_sha256": "8fe43fe447a2d63c7899713b0a17b608b36f49077271aed8024ea7f919f88eba"
+  },
+  {
+    "path": "Dataset/Image/player/player_BW2.png",
+    "original_sha256": "cb34d9ce5300136a2e5860020ee18ac40fae4e18ebe205092db26abe303bba0b",
+    "published_sha256": "cb34d9ce5300136a2e5860020ee18ac40fae4e18ebe205092db26abe303bba0b"
+  },
+  {
+    "path": "Dataset/Image/player/player_F.png",
+    "original_sha256": "bbf1f38cf370f07da0117196ebd418a38e361fd43a1d24bcf7046617d4816779",
+    "published_sha256": "bbf1f38cf370f07da0117196ebd418a38e361fd43a1d24bcf7046617d4816779"
+  },
+  {
+    "path": "Dataset/Image/player/player_FW1.png",
+    "original_sha256": "1f5a0065b74607a9352003fc558cb791f42af22413d9798ffb45a1d59f3562a4",
+    "published_sha256": "1f5a0065b74607a9352003fc558cb791f42af22413d9798ffb45a1d59f3562a4"
+  },
+  {
+    "path": "Dataset/Image/player/player_FW2.png",
+    "original_sha256": "47ca7640b3392179ede448918d3dbf022d23ce4fbb6f61171db253567a75a0b7",
+    "published_sha256": "47ca7640b3392179ede448918d3dbf022d23ce4fbb6f61171db253567a75a0b7"
+  },
+  {
+    "path": "Dataset/Image/player/player_L.png",
+    "original_sha256": "084b6e08b49b292f27bcfc866b94b0f08ee9cfc190b67245c958c6d4accf7f63",
+    "published_sha256": "084b6e08b49b292f27bcfc866b94b0f08ee9cfc190b67245c958c6d4accf7f63"
+  },
+  {
+    "path": "Dataset/Image/player/player_LW1.png",
+    "original_sha256": "b192e9bc4e3118caef839daa530d94c218afc35e4d0e8f8327dc05e0e301f10e",
+    "published_sha256": "b192e9bc4e3118caef839daa530d94c218afc35e4d0e8f8327dc05e0e301f10e"
+  },
+  {
+    "path": "Dataset/Image/player/player_LW2.png",
+    "original_sha256": "2a2bd7581c2e49672c4a818670a99c042998d30838b74c6efa09bca988b98228",
+    "published_sha256": "2a2bd7581c2e49672c4a818670a99c042998d30838b74c6efa09bca988b98228"
+  },
+  {
+    "path": "Dataset/Image/player/player_R.png",
+    "original_sha256": "0ade087f482193a7fb2b04fa7e9503d677dd20a1a7e50dc7e346818615e44313",
+    "published_sha256": "0ade087f482193a7fb2b04fa7e9503d677dd20a1a7e50dc7e346818615e44313"
+  },
+  {
+    "path": "Dataset/Image/player/player_RW1.png",
+    "original_sha256": "ebb4f8bc1c28c36aec461c2d94fbcbda87fc00f1b50dbd1cf27296dee95b203b",
+    "published_sha256": "ebb4f8bc1c28c36aec461c2d94fbcbda87fc00f1b50dbd1cf27296dee95b203b"
+  },
+  {
+    "path": "Dataset/Image/player/player_RW2.png",
+    "original_sha256": "2ad37a3791702aa96db4252f504fa3cb0867a25d2721dd84a86067b68889eedd",
+    "published_sha256": "2ad37a3791702aa96db4252f504fa3cb0867a25d2721dd84a86067b68889eedd"
+  },
+  {
+    "path": "Dataset/Image/resources.qrc",
+    "original_sha256": "8353d6aa2c2e44b59735bcb7c8a4648f525558d5d3b0a4b860ce2fc1989a3c84",
+    "published_sha256": "8353d6aa2c2e44b59735bcb7c8a4648f525558d5d3b0a4b860ce2fc1989a3c84"
+  },
+  {
+    "path": "Dataset/Image/scene/game_over.png",
+    "original_sha256": "57c24de711bf79c9e11d2edbc4c22b0ea456b27b8014ba575e7fc5b5c2c0977a",
+    "published_sha256": "57c24de711bf79c9e11d2edbc4c22b0ea456b27b8014ba575e7fc5b5c2c0977a"
+  },
+  {
+    "path": "Dataset/Image/scene/GrassLand.png",
+    "original_sha256": "2400bb0907a4ce14056177c3e0828b8f2bbbcb9bfc3af9a8e2524bf484c2a7fc",
+    "published_sha256": "2400bb0907a4ce14056177c3e0828b8f2bbbcb9bfc3af9a8e2524bf484c2a7fc"
+  },
+  {
+    "path": "Dataset/Image/scene/lab.png",
+    "original_sha256": "e0fbf1b45297ed5c00b127167f6b9064eef8efe3f7ac15ca879d8ea070b84e69",
+    "published_sha256": "e0fbf1b45297ed5c00b127167f6b9064eef8efe3f7ac15ca879d8ea070b84e69"
+  },
+  {
+    "path": "Dataset/Image/scene/start_menu.png",
+    "original_sha256": "abaca1c9af00a42f959e4bd070e4e274fb770f467cb6ec22581db1b1696bca97",
+    "published_sha256": "abaca1c9af00a42f959e4bd070e4e274fb770f467cb6ec22581db1b1696bca97"
+  },
+  {
+    "path": "Dataset/Image/scene/Town.png",
+    "original_sha256": "35d3a978b607d32995ab64f125e7fc824e6865bfb9b489a95412722bec3fcea4",
+    "published_sha256": "35d3a978b607d32995ab64f125e7fc824e6865bfb9b489a95412722bec3fcea4"
+  },
+  {
+    "path": "ExplorationScene.cpp",
+    "original_sha256": "85ea2f5eef5210c4a82b53b660b1f0384b8380c4d68f4c2dbfdb26609bbc7d24",
+    "published_sha256": "13a920cc8bf84b81fd3ee61389ea88c367ec859a94d20058ff8a8c6212c9f479"
+  },
+  {
+    "path": "ExplorationScene.h",
+    "original_sha256": "98b4c4282e0f7d17504833da531d25ec148b83aa201bf79174670f5d158c6275",
+    "published_sha256": "df379b92532131b00063e867d4d98184410969a18b241220ce1cc6bda3d9124e"
+  },
+  {
+    "path": "main.cpp",
+    "original_sha256": "005d1e8d9c6a4751e45deafeb5f2e1053ee9bb7901f10f1498ae184b2f9e9eda",
+    "published_sha256": "9ed33e29693d7d9f946188b69b2b2eb4576ee91f164627a636a0e2fbd09e8cc3"
+  },
+  {
+    "path": "mainwindow.cpp",
+    "original_sha256": "088481303ee282d728b0dac251148d7d33260e5cbe10bffad6858e37f67f0a27",
+    "status": "removed unused MainWindow scaffold"
+  },
+  {
+    "path": "mainwindow.h",
+    "original_sha256": "e9614649d5c271d3d5d1802dba1f7e821a2f2bc8a4e4af8d8fb232a3e922e1b1",
+    "status": "removed unused MainWindow scaffold"
+  },
+  {
+    "path": "mainwindow.ui",
+    "original_sha256": "f8bb3823e1ed7321007c79e4dcc88d410772f379c17bdc8524b76e66eead115e",
+    "status": "removed unused MainWindow scaffold"
+  },
+  {
+    "path": "MenuScene.cpp",
+    "original_sha256": "b6f44c2a708d7de8f1a06b13ea441b077dc4fab0fcece5cb47ff02f738444bf4",
+    "published_sha256": "e02d98918891c219dcc56258a264fb8e4bc929bf119f3bb542a928fc0aa6cf16"
+  },
+  {
+    "path": "MenuScene.h",
+    "original_sha256": "188953b126ef00580cfd67d5eb86ed0115aadb4f4694ab37eb2d9e5a0c22d847",
+    "published_sha256": "631a2840d0876dfcba80d4dd7c7b479d786b1a032afcfbc696f1afe6d7f38788"
+  },
+  {
+    "path": "PlayerItem.cpp",
+    "original_sha256": "ad8a522286e3755fbea70d1cb6d440e962647ce3094bfc8b849c822c12effc9d",
+    "published_sha256": "d2ee2a2493739f931aebf76c9f9a0facf397717afbd8d4f4ad30662f000f167c"
+  },
+  {
+    "path": "PlayerItem.h",
+    "original_sha256": "4deb192b45f2909fd2c6c114fc83d313ae8d7aa711f26388410db48af60449d1",
+    "published_sha256": "250f45c4c0a3e6e1a5d53c5f7f4c3f0ce3ed6dcf59503ac3e99270d90f551746"
+  },
+  {
+    "path": "PokemonItem.cpp",
+    "original_sha256": "48e0fd2ebf6c92ab3102524c7a88a484eeaf401a4c57c0dca1c11f468aca6dc9",
+    "published_sha256": "43b0460714bfcaab0c693874606b520019c7e9cfe55a3460c299de5030e02018"
+  },
+  {
+    "path": "PokemonItem.h",
+    "original_sha256": "b7bf784b829e7743357d6f52c596f7dc739d189d1fc5bdb67058782b3c6a10ca",
+    "published_sha256": "06500c111e897b3ca9c1830753e515b1f2fda88081db6501ab896fff2e314230"
+  },
+  {
+    "path": "PokemonRPG.pro",
+    "original_sha256": "35aeb84fd59bb85d41797736fd9d855a02d4afc38928ae9a0ad193c7bacfa77d",
+    "published_sha256": "a7f54d5216c01d4f53741a666af3cfa6420e33f9458a653da93ee40588f7b896"
+  },
+  {
+    "path": "scenemanager.cpp",
+    "original_sha256": "8537a15c7670c81e17c751fb2dbdb6dc9ec72066cbf35e2f1c181bbce7b2758c",
+    "published_sha256": "b61994fe167c0f103ddc8b6e320fa931eff11c5c7fb7d22ee5e87f92a540aaf5"
+  },
+  {
+    "path": "scenemanager.h",
+    "original_sha256": "758af2d03a410593de010c5d3bb722e042650887cc449592630bfd5a97e2c2ae",
+    "published_sha256": "95d60f2808d892b97718d768a72756b6de1f22e175eab04cb84738547c47b972"
+  }
+]

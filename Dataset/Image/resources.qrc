@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bag.png</file>
+        <file>ball.png</file>
+        <file>box.png</file>
+        <file>dialog.png</file>
+        <file>item_bag_background.png</file>
+        <file>NPC.png</file>
+        <file>battle/battle_scene.png</file>
+        <file>battle/blastoise.png</file>
+        <file>battle/blastoise_back.png</file>
+        <file>battle/bulbasaur.png</file>
+        <file>battle/bulbasaur_back.png</file>
+        <file>battle/charizard.png</file>
+        <file>battle/charizard_back.png</file>
+        <file>battle/charmander.png</file>
+        <file>battle/charmander_back.png</file>
+        <file>battle/charmeleon.png</file>
+        <file>battle/charmeleon_back.png</file>
+        <file>battle/fight_skill.png</file>
+        <file>battle/ivysaur.png</file>
+        <file>battle/ivysaur_back.png</file>
+        <file>battle/squirtle.png</file>
+        <file>battle/squirtle_back.png</file>
+        <file>battle/venusaur.png</file>
+        <file>battle/venusaur_back.png</file>
+        <file>battle/wartortle.png</file>
+        <file>battle/wartortle_back.png</file>
+        <file>icon/Ether_bag.png</file>
+        <file>icon/Pokeball_bag.png</file>
+        <file>icon/Potion_bag.png</file>
+        <file>player/player_B.png</file>
+        <file>player/player_BW1.png</file>
+        <file>player/player_BW2.png</file>
+        <file>player/player_F.png</file>
+        <file>player/player_FW1.png</file>
+        <file>player/player_FW2.png</file>
+        <file>player/player_L.png</file>
+        <file>player/player_LW1.png</file>
+        <file>player/player_LW2.png</file>
+        <file>player/player_R.png</file>
+        <file>player/player_RW1.png</file>
+        <file>player/player_RW2.png</file>
+        <file>scene/game_over.png</file>
+        <file>scene/GrassLand.png</file>
+        <file>scene/lab.png</file>
+        <file>scene/start_menu.png</file>
+        <file>scene/Town.png</file>
+        <file>A Key.png</file>
+        <file>battle/Bag.png</file>
+        <file>battle/Fight.png</file>
+        <file>battle/Run.png</file>
+        <file>battle/Pokemon.png</file>
+        <file>battle/PokemonList.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

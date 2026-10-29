@@ -1,0 +1,19 @@
+name: Qt build and regression tests
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      QT_QPA_PLATFORM: offscreen
+      ASAN_OPTIONS: detect_leaks=0
+      UBSAN_OPTIONS: halt_on_error=1
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y qtbase5-dev
+      - run: python3 tests/check_resources.py
+      - run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug -DENABLE_SANITIZERS=ON
+      - run: cmake --build build --parallel 2
+      - run: ctest --test-dir build --output-on-failure

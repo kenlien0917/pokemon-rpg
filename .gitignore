@@ -1,0 +1,16 @@
+build*/
+*.pro.user*
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+Makefile*
+.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+.vs/
+.vscode/
+__pycache__/
+core
